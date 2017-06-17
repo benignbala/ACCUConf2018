@@ -1,0 +1,11 @@
+= ACCU Conf 2018
+
+This is an attempt at creating a website for ACCU Conf 2018. Please note that
+this is an informal attempt by an individual and it is not approved yet by the
+ACCU Conference committee.
+
+== Toolchain
+
+This will use Python 3.5, Pyramid for the dynamic parts and Nikola for the
+static parts.
+
